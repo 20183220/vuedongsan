@@ -33,7 +33,7 @@
     <h4 id="title" @click="모달창open[i - 1] = true">{{원룸들[i - 1].title}}</h4>
     <p>{{원룸들[i - 1].price}}원</p>
     <button @click="신고수[i]++">허위매물신고</button> <span>신고수 : {{신고수[i]}}</span>
-    sdfdsf heloololollloloo
+    sdfdsf heloololollloloo dsfsdfsdf
   </div>
   
 
