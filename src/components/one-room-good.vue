@@ -76,7 +76,7 @@ export default{
 }
 
 .menu{
-  background : darkslateblue;
+  background : rgb(49, 32, 158);
   padding : 15px;
   border-radius : 5px;
   width:100%;
