@@ -1,17 +1,17 @@
 
 
 <template>
-  <Oneroom/>
+  <Aquaphonics/>
 </template>
 
 <script>
-import Oneroom from "./components/one-room-good.vue"
+import Aquaphonics from "./components/aqua-phonics.vue"//eslint-disable-line no-unused-vars
 
 export default{
   name:'App',
 
   components:{
-    Oneroom : Oneroom
+    Aquaphonics : Aquaphonics
   }
 }
 
