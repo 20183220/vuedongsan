@@ -2,6 +2,7 @@
 
 <template>
   <Aquaphonics/>
+  im ech hello 
 </template>
 
 <script>
